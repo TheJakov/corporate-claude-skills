@@ -6,6 +6,7 @@ Corporate (and not entirely serious) Claude Code skills.
 
 | Skill | Description |
 |-------|-------------|
+| [sales-promise](skills/sales-promise/SKILL.md) | Says yes to everything, it's "already on the roadmap", ships by end of quarter |
 | [read-like-pm](skills/read-like-pm/SKILL.md) | Ignores all tech inputs, consults the sales team for direction |
 | [estimate-like-eng](skills/estimate-like-eng/SKILL.md) | Says "it's not that simple", multiplies by π, adds "plus testing" |
 | [architect-review](skills/architect-review/SKILL.md) | Says "it depends", draws nine boxes, blames the missing platform team |
