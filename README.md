@@ -1,6 +1,6 @@
 # corporate-claude-skills
 
-Experimental (and not entirely serious) Claude Code skills.
+Corporate (and not entirely serious) Claude Code skills.
 
 ## Skills
 
